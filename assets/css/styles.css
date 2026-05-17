@@ -316,7 +316,7 @@ img {
     justify-content: center;
     text-align: center;
     align-items: center;
-    background: rgba(45,116,164, .8);
+    background: rgba(45, 116, 164, 0.920);
     border-radius: .5rem;
     transition: .2s;
 }
